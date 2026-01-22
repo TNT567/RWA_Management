@@ -1,0 +1,7 @@
+{
+  "name": "Digital Fund RWA Platform",
+  "description": "A world-class Real World Asset (RWA) management platform for digitizing and managing RMB Money Market Funds on-chain, featuring real-time NAV tracking, minting/burning workflows, and compliance management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
